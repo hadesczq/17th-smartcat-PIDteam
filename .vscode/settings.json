@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "headfile.h": "c",
+        "seekfree_printf.h": "c"
+    }
+}
